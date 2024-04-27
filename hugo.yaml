@@ -36,11 +36,11 @@ ignoreFiles:
 outputs:
   blog:
     - HTML
-    - RSS
+    # - RSS
     - sitemap-blog.xml
   home:
     - HTML
-    - RSS
+    # - RSS
     - sitemap.xml
 params:
   social:
